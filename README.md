@@ -28,8 +28,6 @@ A hands-on learning project demonstrating data quality assessment, reconciliatio
 │   └── powerbi_export.xlsx
 ├── docs/
 │   └── QUICK_START.md                  # 5-minute quick start guide
-└── config/
-    └── config.json                     # Configuration settings
 ```
 
 ## 🎓 Learning Journey
@@ -266,3 +264,4 @@ Created as part of my data analytics portfolio to demonstrate expertise in:
 **Author**: Data Analytics Portfolio Project  
 **Last Updated**: February 2026  
 **Status**: Active Learning Project
+
